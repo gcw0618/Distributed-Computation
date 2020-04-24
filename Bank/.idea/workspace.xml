@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72dbaf82-307c-47c4-bea4-f49558f7ab89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/aop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/aop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/CheckFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/CheckFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/LoginFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/LoginFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/SaveFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/SaveFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/WithdrawFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/WithdrawFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/testGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/GUI/testGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/Interface/MyAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/Interface/MyAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/RoundRobin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/RoundRobin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/ServerList.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/ServerList.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/ServerSite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/ServerSite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/testJSON.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Distributed-Computation/test/JSON/testJSON.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aRjvlcnO42fa98Ahtli6XivHD9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="bank" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\Bank\Distributed-Computation\.idea" />
+      <recent name="D:\Github\Bank\Distributed-Computation\src" />
+      <recent name="D:\idea project\Bank\Distributed-Computation\src\test\Demo" />
+      <recent name="D:\idea project\Bank\Distributed-Computation\src\test\RPC" />
+      <recent name="D:\idea project\Bank\Distributed-Computation\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.Interface" />
+      <recent name="test.RPC" />
+      <recent name="" />
+      <recent name="test._Fake_" />
+      <recent name="test._Fake_AOPBean" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\Bank\Distributed-Computation\src" />
+      <recent name="D:\Github\Bank\Distributed-Computation\src\test" />
+      <recent name="D:\Github\Bank\Distributed-Computation\src\test\RPC" />
+      <recent name="D:\idea project\Bank\Distributed-Computation\src\test\_Fake_AOPBean" />
+      <recent name="D:\idea project\Bank\Distributed-Computation\src\test\RPC" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RPCServerTest">
+    <configuration name="RPCClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RPC.RPCClientTest" />
+      <module name="Distributed-Computation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Distributed-Computation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.DB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test._Fake_.RPCClientTest" />
+      <module name="Distributed-Computation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test._Fake_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RPC.RPCServerTest" />
+      <module name="Distributed-Computation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Distributed-Computation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.DB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCServerTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RPC.RPCServerTest2" />
+      <module name="Distributed-Computation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.RPC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.GUI.testGUI" />
+      <module name="Distributed-Computation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Distributed-Computation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vincent_player_framt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Log4J.vincent_player_framt" />
+      <module name="Distributed-Computation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Distributed-Computation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Log4J.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RPCClientTest" />
+      <item itemvalue="Application.RPCServerTest" />
+      <item itemvalue="Application.vincent_player_framt" />
+      <item itemvalue="Application.testGUI" />
+      <item itemvalue="Application.RPCServerTest2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RPCServerTest" />
+        <item itemvalue="Application.testGUI" />
+        <item itemvalue="Application.RPCServerTest2" />
+        <item itemvalue="Application.RPCClientTest" />
+        <item itemvalue="Application.vincent_player_framt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72dbaf82-307c-47c4-bea4-f49558f7ab89" name="Default Changelist" comment="" />
+      <created>1586705532053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586705532053</updated>
+      <workItem from="1586705533380" duration="47000" />
+      <workItem from="1586705962017" duration="369000" />
+      <workItem from="1586779964100" duration="620000" />
+      <workItem from="1586867560972" duration="11728000" />
+      <workItem from="1586913657288" duration="7697000" />
+      <workItem from="1586932394496" duration="140000" />
+      <workItem from="1586933548727" duration="23995000" />
+      <workItem from="1586964173166" duration="68000" />
+      <workItem from="1586964262255" duration="293000" />
+      <workItem from="1586964586397" duration="91000" />
+      <workItem from="1587053454374" duration="166000" />
+      <workItem from="1587053701968" duration="310000" />
+      <workItem from="1587138303675" duration="2538000" />
+      <workItem from="1587192871271" duration="7410000" />
+      <workItem from="1587200914130" duration="1079000" />
+      <workItem from="1587202093588" duration="395000" />
+      <workItem from="1587267681827" duration="1125000" />
+      <workItem from="1587274548552" duration="771000" />
+      <workItem from="1587280217546" duration="261000" />
+      <workItem from="1587281025702" duration="1789000" />
+      <workItem from="1587287162422" duration="612000" />
+      <workItem from="1587298591696" duration="3504000" />
+      <workItem from="1587439940140" duration="836000" />
+      <workItem from="1587442653384" duration="3001000" />
+      <workItem from="1587460373768" duration="6371000" />
+      <workItem from="1587467453218" duration="206000" />
+      <workItem from="1587538562037" duration="695000" />
+      <workItem from="1587544254196" duration="195000" />
+      <workItem from="1587547205501" duration="113000" />
+      <workItem from="1587547409945" duration="2899000" />
+      <workItem from="1587558331958" duration="271000" />
+      <workItem from="1587615777179" duration="10000" />
+      <workItem from="1587702609237" duration="1640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+{
+	"server":[
+			{
+				"name": "超强炜哥",
+				"host":"localhost",
+				"port":9999
+			},
+			{
+				"name": "皮皮甘",
+				"host":"127.0.0.1",
+				"port":9999
+			},
+			{
+				"name": "冷酷的林子哥",
+				"host":"localhost",
+				"port":8888
+			}
+		    ]
+}

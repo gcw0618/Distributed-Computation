@@ -1,0 +1,12 @@
+<aops>
+    <aop>
+        <method>check</method>
+        <type>before</type>
+        <method>order</method>
+    </aop>
+    <aop>
+        <method>accept</method>
+        <type>after</type>
+        <method>order</method>
+    </aop>
+</aops>

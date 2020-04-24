@@ -1,0 +1,8 @@
+<aops>
+    <aop>
+        <method>check</method>
+        <type>before</type>
+        <method>order</method>
+    </aop>
+    
+</aops>
